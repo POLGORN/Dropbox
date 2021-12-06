@@ -1,0 +1,16 @@
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048.deps.json
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048.runtimeconfig.json
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048.runtimeconfig.dev.json
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048.dll
+/home/apothecary/Game2048/bin/Debug/net5.0/ref/Game2048.dll
+/home/apothecary/Game2048/bin/Debug/net5.0/Game2048.pdb
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.csproj.AssemblyReference.cache
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.GeneratedMSBuildEditorConfig.editorconfig
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.AssemblyInfoInputs.cache
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.AssemblyInfo.cs
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.csproj.CoreCompileInputs.cache
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.dll
+/home/apothecary/Game2048/obj/Debug/net5.0/ref/Game2048.dll
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.pdb
+/home/apothecary/Game2048/obj/Debug/net5.0/Game2048.genruntimeconfig.cache
